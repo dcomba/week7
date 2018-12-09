@@ -23,3 +23,5 @@ for character in sequence:
 
 print("A:%d, T:%d, G:%d, C:%d" % (Acount,Tcount,Gcount,Ccount))
 #prints values of letter occurences
+
+# DB: Very good!
